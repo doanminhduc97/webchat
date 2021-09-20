@@ -1,0 +1,5 @@
+export const SET_MESSAGE = 'SET_COACH'
+export const SET_USER = 'SET_USER'
+export const SET_NAME_USER = 'SET_NAME_USER'
+export const GET_MESSAGE = 'GET_MESSAGE'
+export const GET_IMG = 'GET_IMG'
